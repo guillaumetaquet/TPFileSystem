@@ -1,0 +1,39 @@
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.pdb
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+E:\Dropbox\EPSI\Cours B2\C#\Application console\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\FileSystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.pdb
+E:\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.pdb
+C:\Users\John MC\Dropbox\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
+E:\Dropbox\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+E:\Dropbox\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+E:\Dropbox\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Desktop\Filesystem\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\Guillaume\Desktop\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Desktop\Filesystem\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\obj\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\bin\Debug\TPFileSystem.exe
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\bin\Debug\TPFileSystem.pdb
+C:\Users\Guillaume\Documents\workspace\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
